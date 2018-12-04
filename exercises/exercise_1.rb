@@ -25,4 +25,5 @@ gastown = Store.create(
 )
 
 puts Store.count
+
 # Your code goes below here ...
